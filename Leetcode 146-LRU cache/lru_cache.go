@@ -36,10 +36,10 @@ func (this *LRUCache) Get(key int) int {
 func (this *LRUCache) Put(key int, value int) {
 	if _, found := this.cache[key]; !found {
 		if this.linkedList.size >= this.capacity {
-			this.linkedList.insertAtTail(key, value)
-			this.cache[key] = this.linkedList.getTail()
 			delete(this.cache, this.linkedList.getHead().key)
 			this.linkedList.removeHead()
+			this.linkedList.insertAtTail(key, value)
+			this.cache[key] = this.linkedList.getTail()
 		} else {
 			this.linkedList.insertAtTail(key, value)
 			this.cache[key] = this.linkedList.getTail()

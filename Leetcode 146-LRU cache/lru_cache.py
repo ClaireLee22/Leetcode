@@ -32,10 +32,10 @@ class LRUCache(object):
         """
         if key not in self.cache:
             if self.linkedList.size >= self.capacity:
-                self.linkedList.insertAtTail(key, value)
-                self.cache[key] = self.linkedList.getTail()
                 del self.cache[self.linkedList.getHead().key]
                 self.linkedList.removeHead()
+                self.linkedList.insertAtTail(key, value)
+                self.cache[key] = self.linkedList.getTail()
             else:
                 self.linkedList.insertAtTail(key, value)
                 self.cache[key] = self.linkedList.getTail()
