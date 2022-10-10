@@ -7,4 +7,6 @@
 
 [LeetCode 142: Linked list cycle II](https://yuminlee2.medium.com/floyds-cycle-detection-algorithm-b27ed50c607f)
 
+[LeetCode 207: Course schedule](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20207-%20course%20schedule)
+
 [LeetCode 560: Subarray Sum Equals K](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20560-Subarray%20Sum%20Equals%20K)
