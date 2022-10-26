@@ -10,3 +10,5 @@
 [LeetCode 207: Course schedule](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20207-%20course%20schedule)
 
 [LeetCode 560: Subarray Sum Equals K](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20560-Subarray%20Sum%20Equals%20K)
+
+[LeetCode 72: Edit distance](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2072-Edit%20Distancen)
