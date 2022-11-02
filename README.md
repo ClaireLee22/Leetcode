@@ -12,3 +12,5 @@
 [LeetCode 560: Subarray Sum Equals K](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20560-Subarray%20Sum%20Equals%20K)
 
 [LeetCode 72: Edit distance](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2072-Edit%20Distancen)
+
+[LeetCode 5:  Longest Palindromic Substring](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%205-Longest%20Palindromic%20Substring)
