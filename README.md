@@ -14,3 +14,6 @@
 [LeetCode 72: Edit distance](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2072-Edit%20Distancen)
 
 [LeetCode 5:  Longest Palindromic Substring](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%205-Longest%20Palindromic%20Substring)
+
+
+[LeetCode78. 90: Subsets I and II](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2078%2090-subset)
