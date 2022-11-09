@@ -15,5 +15,6 @@
 
 [LeetCode 5:  Longest Palindromic Substring](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%205-Longest%20Palindromic%20Substring)
 
-
 [LeetCode 78 90: Subsets I and II](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2078%2090-subset)
+
+[LeetCode 31 46 47: Next permutation, Permuatations I and II](https://github.com/ClaireLee22/Leetcode/blob/main/LeetCode%2031%2046%2047-%20Next%20permutation,%20Permuatations%20I%20and%20II/README.md)
