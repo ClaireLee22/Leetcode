@@ -17,4 +17,7 @@
 
 [LeetCode 78 90: Subsets I and II](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2078%2090-subset)
 
-[LeetCode 31 46 47: Next permutation, Permuatations I and II](https://github.com/ClaireLee22/Leetcode/blob/main/LeetCode%2031%2046%2047-%20Next%20permutation,%20Permuatations%20I%20and%20II/README.md)
+[LeetCode 31 46 47: Next permutation, Permuatations I and II](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2031%2046%2047-%20Next%20permutation%2C%20Permuatations%20I%20and%20II)
+
+[LeetCode 77 39 40-Combination and Combination sum](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2077%2039%2040-Combination%20and%20Combination%20sum)
+
