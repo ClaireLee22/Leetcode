@@ -1,11 +1,11 @@
 # LeetCode
-[LeetCode 146: LRU cache](https://yuminlee2.medium.com/leetcode-146-lru-cache-c96aed010ab2)
+[LeetCode 146: LRU cache](https://github.com/ClaireLee22/Leetcode/tree/main/Leetcode%20146-LRU%20cache)
 
-[LeetCode 460: LFU cache](https://yuminlee2.medium.com/leetcode-460-lfu-cache-a974db16f24a)
+[LeetCode 460: LFU cache](https://github.com/ClaireLee22/Leetcode/tree/main/Leetcode%20460-LFU%20cache)
 
-[LeetCode 141: Linked list cycle](https://yuminlee2.medium.com/floyds-cycle-detection-algorithm-b27ed50c607f)
+[LeetCode 141: Linked list cycle](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20141-Linked%20list%20cycle)
 
-[LeetCode 142: Linked list cycle II](https://yuminlee2.medium.com/floyds-cycle-detection-algorithm-b27ed50c607f)
+[LeetCode 142: Linked list cycle II](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20142-Lined%20list%20cycle%20ll)
 
 [LeetCode 207: Course schedule](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20207-%20course%20schedule)
 
