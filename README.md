@@ -25,4 +25,4 @@
 
 [LeetCode 227: Basic calculator II](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20227-Basic%20calculater%20II)
 
-
+[LeetCode 190: Reverse bits](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20190-%20Reverse%20Bits)
