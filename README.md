@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode Problems
 [LeetCode 146: LRU cache](https://github.com/ClaireLee22/Leetcode/tree/main/Leetcode%20146-LRU%20cache)
 
 [LeetCode 460: LFU cache](https://github.com/ClaireLee22/Leetcode/tree/main/Leetcode%20460-LFU%20cache)
