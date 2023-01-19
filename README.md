@@ -30,3 +30,5 @@
 [LeetCode 371: Sum of Two Integers](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%20371-%20Sum%20of%20two%20integers)
 
 [LeetCode 11: Container With Most Water](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2011-%20Container%20with%20most%20water)
+
+[LeetCode 124: Binary Tree Maximum Path Sum](https://github.com/ClaireLee22/Leetcode/tree/main/LeeCode%20124-%20Binary%20Tree%20Maximum%20Path%20Sum)
