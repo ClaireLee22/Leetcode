@@ -32,3 +32,5 @@
 [LeetCode 11: Container With Most Water](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode%2011-%20Container%20with%20most%20water)
 
 [LeetCode 124: Binary Tree Maximum Path Sum](https://github.com/ClaireLee22/Leetcode/tree/main/LeeCode%20124-%20Binary%20Tree%20Maximum%20Path%20Sum)
+
+[LeetCode 295: Find Median from a Data Stream](https://github.com/ClaireLee22/Leetcode/tree/main/LeetCode295-Find%20Median%20from%20a%20Data%20Stream)
